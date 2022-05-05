@@ -15,6 +15,9 @@
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://github.com/malotts2k/CERTHERE)
 - [CompTIA Security+](https://github.com/malotts2k/CERTHERE)
 - [CompTIA Network+](https://github.com/malotts2k/CERTHERE)
+- [Linux Professional Institute: Linux Essentials](https://github.com/malotts2k/CERTHERE)
+- [ITIL Foundation](https://github.com/malotts2k/CERTHERE)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
