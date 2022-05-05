@@ -2,7 +2,11 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Azure Sentinel SIEM Lab](https://github.com/malotts2k/ActiveDirectoryLab)
   - [Active Directory Home Lab](https://github.com/malotts2k/ActiveDirectoryLab)
+  - [Create a File Integrity Monitor](https://github.com/malotts2k/ActiveDirectoryLab)
+  - [Vulnerability Management Lab](https://github.com/malotts2k/ActiveDirectoryLab)
+  - [My very basic REST API](https://github.com/malotts2k/ActiveDirectoryLab)
 
 <h2> 📜 Certifications</h2>
   
