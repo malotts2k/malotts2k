@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt! Thanks for checking out my github page! 
+<h1>Hi, I'm Matt, an avid learner and tech enthusiast!
   
 <h2>👨‍💻 Cloud Projects:</h2>
 
