@@ -4,7 +4,7 @@
 
   - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) -- https://www.youtube.com/watch?v=ieYrBWmkfno
   - [Azure Sentinel SIEM](https://github.com/malotts2k/ActiveDirectoryLab) --  https://www.youtube.com/watch?v=RoZeVbbZ0o0
-  - [Deploy App to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) -- https://github.com/SoniaConti/ContosoFinance-Demo
+  - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) -- https://github.com/SoniaConti/ContosoFinance-Demo
   
  <h2>🛡 Security Projects:</h2>
   
