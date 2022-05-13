@@ -1,12 +1,24 @@
 <h1>Hi, I'm Matt! 
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cloud Projects:</h2>
 
-  - [Azure Sentinel SIEM](https://github.com/malotts2k/ActiveDirectoryLab)
+  - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) -- https://www.youtube.com/watch?v=ieYrBWmkfno
+  - [Azure Sentinel SIEM](https://github.com/malotts2k/ActiveDirectoryLab) --  https://www.youtube.com/watch?v=RoZeVbbZ0o0
+  - [Deploy App to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) -- https://github.com/SoniaConti/ContosoFinance-Demo
+  
+ <h2>🛡 Security Projects:</h2>
+  
+  - [Port Scanner Python Project](https://github.com/malotts2k/ActiveDirectoryLab) -- https://www.youtube.com/watch?v=FGdiSJakIS4
+  - [Web Scraper Python Project](https://github.com/malotts2k/ActiveDirectoryLab) -- https://www.youtube.com/watch?v=SqvVm3QiQVk&t=37s
   - [Vulnerability Management Lab](https://github.com/malotts2k/ActiveDirectoryLab)
-   - [File Integrity Monitor](https://github.com/malotts2k/ActiveDirectoryLab)
+ 
+ <h2>🛠 My Home Lab:</h2>
+  
   - [Active Directory Home Lab](https://github.com/malotts2k/ActiveDirectoryLab)
-  - [First REST API](https://github.com/malotts2k/ActiveDirectoryLab)
+  
+<h2>🔰 My extremely primitive REST API:</h2>
+  
+  - [REST API](https://github.com/malotts2k/ActiveDirectoryLab)
 
 
   
