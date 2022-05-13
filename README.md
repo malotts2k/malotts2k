@@ -31,9 +31,9 @@
 - [ITIL Foundation](https://github.com/malotts2k/CERTHERE)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular LinkedIn Article</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://MYyoutubeURL)
+- [How to become an IT engineer](https://MYyoutubeURL)
 
 
 <h2> 🤳 Connect with me:</h2>
