@@ -2,14 +2,14 @@
   
 <h2>👨‍💻 Cloud Projects:</h2>
 
-  - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) -- https://www.youtube.com/watch?v=ieYrBWmkfno
-  - [Azure Sentinel SIEM](https://github.com/malotts2k/ActiveDirectoryLab) --  https://www.youtube.com/watch?v=RoZeVbbZ0o0
-  - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) -- https://github.com/SoniaConti/ContosoFinance-Demo
+  - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
+  - [Azure Sentinel SIEM](https://github.com/malotts2k/ActiveDirectoryLab)  <!-- https://www.youtube.com/watch?v=RoZeVbbZ0o0 -->
+  - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
   
  <h2>🛡 Security Projects:</h2>
   
-  - [Port Scanner Python Project](https://github.com/malotts2k/ActiveDirectoryLab) -- https://www.youtube.com/watch?v=FGdiSJakIS4
-  - [Web Scraper Python Project](https://github.com/malotts2k/ActiveDirectoryLab) -- https://www.youtube.com/watch?v=SqvVm3QiQVk&t=37s
+  - [Port Scanner Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=FGdiSJakIS4 -->
+  - [Web Scraper Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=SqvVm3QiQVk&t=37s -->
   - [Vulnerability Management Lab](https://github.com/malotts2k/ActiveDirectoryLab)
  
  <h2>🛠 My Home Lab:</h2>
