@@ -2,8 +2,8 @@
   
 <h2>👨‍💻 Cloud Projects:</h2>
 
-  - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
   - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)  <!-- https://www.youtube.com/watch?v=RoZeVbbZ0o0 -->
+  - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
   - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
   
  <h2>🛡 Security Projects:</h2>
