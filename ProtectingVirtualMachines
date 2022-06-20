@@ -1,0 +1,10 @@
+# How I Protect Azure Virtual Machine Data
+
+As a data protection professional I know a thing or two about file, folder, application, and machine-level backups. Providing data protection for a virtual machine in Azure is quite different than how you would perform a backup of an on-prem server or virtual machine. 
+
+This is my first real security project involving Azure that I'm excited to share. A lot of components went into creating this SIEM and monitoring real-time brute-force attacks coming in from all over the globe against my poor little defenseless honeypot VM was nothing short of exhilarating!
+
+Here's a visualization of what this process looks like. Not really much to look at yet but the interesting stuff is always found under the hood anyway, right?
+
+
+This is only the start of a very intriguing foray into my Azure Security career and I'm glad I was able to share it here with a like-minded audience. I hope you enjoyed this experience as much as I did and I hope to have more interesting projects to share in the future!
