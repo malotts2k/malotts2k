@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
   - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)  <!-- https://www.youtube.com/watch?v=RoZeVbbZ0o0 -->
-  - [Implementing Cloud Data Protection for Azure Virtual Machines](https://github.com/malotts2k/ActiveDirectoryLab)
+  - [Implementing Cloud Data Protection for Azure Virtual Machines](https://github.com/malotts2k/malotts2k/blob/main/ProtectingVirtualMachines)
   - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
   - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
   
