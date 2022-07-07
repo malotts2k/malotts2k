@@ -6,7 +6,7 @@
   - [Implementing Cloud Data Protection for Azure Virtual Machines](https://github.com/malotts2k/ProtectingVirtualMachines)
   - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
   - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
-  - [Azure Hub and Spoke Network Topology](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
+  - [Azure Hub and Spoke Network Topology](https://github.com/malotts2k/Azure-Hub-and-Spoke-Topology) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
   
  <h2>🛡 Security Projects:</h2>
   
