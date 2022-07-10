@@ -1,6 +1,6 @@
 <h1>Hi, I'm Matt, an aspiring Azure engineer!
   
-<h2>👨‍💻 Cloud Projects:</h2>
+<h2> ☁️ Cloud Projects:</h2>
 
   
   - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
