@@ -13,9 +13,10 @@
   
  <h2>🛡 Security Projects:</h2>
   
+  - [Nessus Vulnerability Management Lab](https://github.com/malotts2k/ActiveDirectoryLab)
   - [Port Scanner Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=FGdiSJakIS4 -->
   - [Web Scraper Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=SqvVm3QiQVk&t=37s -->
-  - [Vulnerability Management Lab](https://github.com/malotts2k/ActiveDirectoryLab)
+  
  
  <h2>🛠 My Home Lab:</h2>
   
