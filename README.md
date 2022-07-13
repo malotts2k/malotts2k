@@ -5,7 +5,7 @@
   
   - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
   - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)  ✔  <!-- https://www.youtube.com/watch?v=RoZeVbbZ0o0 -->
-  - [Deploying and Scaling Containerized Workloads in a Kubernetes Cluster](https://github.com/malotts2k/KubernetesDeployment)
+  - [Deploying and Scaling Containerized Workloads in a Kubernetes Cluster](https://github.com/malotts2k/KubernetesDeployment) ✔
   - [Implementing Cloud Data Protection for Azure Virtual Machines](https://github.com/malotts2k/ProtectingVirtualMachines)
   - [Azure Hub and Spoke Network Topology](https://github.com/malotts2k/Azure-Hub-and-Spoke-Topology) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
   - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
