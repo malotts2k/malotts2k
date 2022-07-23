@@ -46,9 +46,6 @@
 - [ITIL Foundation](https://github.com/malotts2k/CERTHERE)
 
 
-<h2>📺 Popular LinkedIn Article</h2>
-
-- [How to break out of the help desk](https://MYyoutubeURL)
 
 
 <h2> 🤳 Connect with me:</h2>
