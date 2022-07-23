@@ -4,20 +4,32 @@
 
   
   - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
+  <br>
   - [Securing Azure Infrastructure and Workloads: My Checklist](https://github.com/malotts2k/SecuringAzure)
-  - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)  ✔  <!-- https://www.youtube.com/watch?v=RoZeVbbZ0o0 -->
+  <br>
+  - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)  ✔ 
+  <br>
   - [Deploying and Scaling Containerized Workloads in a Kubernetes Cluster](https://github.com/malotts2k/KubernetesDeployment) ✔
+  <br>
   - [Implementing Cloud Data Protection for Azure Virtual Machines](https://github.com/malotts2k/ProtectingVirtualMachines)
+  <br>
   - [Azure Hub and Spoke Network Topology](https://github.com/malotts2k/Azure-Hub-and-Spoke-Topology) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
+  <br>
   - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
   
+  <br>
+  <br>
   
  <h2>🛡 Security Projects:</h2>
   
   - [Nessus Vulnerability Management Lab](https://github.com/malotts2k/ActiveDirectoryLab)
+  <br>
   - [Port Scanner Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=FGdiSJakIS4 -->
+  <br>
   - [Web Scraper Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=SqvVm3QiQVk&t=37s -->
   
+  <br>
+  <br>
  
  <h2>🛠 My Home Lab:</h2>
   
