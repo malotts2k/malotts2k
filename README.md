@@ -4,7 +4,7 @@
 
   
   - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
-  - [Securing Azure Infrastructure and Workloads: The Checklist](https://github.com/malotts2k/SecuringAzure)
+  - [Securing Azure Infrastructure and Workloads: My Checklist](https://github.com/malotts2k/SecuringAzure)
   - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)  ✔  <!-- https://www.youtube.com/watch?v=RoZeVbbZ0o0 -->
   - [Deploying and Scaling Containerized Workloads in a Kubernetes Cluster](https://github.com/malotts2k/KubernetesDeployment) ✔
   - [Implementing Cloud Data Protection for Azure Virtual Machines](https://github.com/malotts2k/ProtectingVirtualMachines)
