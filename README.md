@@ -7,9 +7,9 @@
 
   - [My Checklist for Securing Azure Infrastructure and Workloads](https://github.com/malotts2k/SecuringAzure)
 
-  - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)  ✔ 
+  - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)
 
-  - [Deploying and Scaling Containerized Workloads in a Kubernetes Cluster](https://github.com/malotts2k/KubernetesDeployment) ✔
+  - [Deploying and Scaling Containerized Workloads in a Kubernetes Cluster](https://github.com/malotts2k/KubernetesDeployment)
 
   - [Implementing Cloud Data Protection for Azure Virtual Machines](https://github.com/malotts2k/ProtectingVirtualMachines)
 
