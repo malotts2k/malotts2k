@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt, a mission-driven security engineer!
+<h1>Hi, I'm Matt, a defense-minded security engineer!
   
 <h2>🛡️ Completed Projects:</h2>
 
