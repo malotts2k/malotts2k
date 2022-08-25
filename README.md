@@ -9,6 +9,9 @@
    - [Deploying and Scaling Containerized Workloads in a Kubernetes Cluster](https://github.com/malotts2k/KubernetesDeployment)
 
    - [My Checklist for Securing Azure Infrastructure and Workloads](https://github.com/malotts2k/SecuringAzure)
+   
+   - [Port Scanner Python Project](https://github.com/malotts2k/python_port_scanner) <!-- https://www.youtube.com/watch?v=FGdiSJakIS4 -->
+
 
   
  
@@ -21,8 +24,6 @@
   - [Azure Hub and Spoke Network Topology](https://github.com/malotts2k/Azure-Hub-and-Spoke-Topology) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
   
   - [Nessus Vulnerability Management Lab](https://github.com/malotts2k/ActiveDirectoryLab)
-
-  - [Port Scanner Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=FGdiSJakIS4 -->
   
   - [Web Scraper Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=SqvVm3QiQVk&t=37s -->
   
