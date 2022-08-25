@@ -4,7 +4,7 @@
 
    - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)
    
-   - [CrowdStrike Falcon EDR](https://github.com/malotts2k/Azure-Sentinel-SIEM)
+   - [CrowdStrike Falcon EDR](https://github.com/malotts2k/CrowdStrike/blob/main/README.md)
    
    - [Deploying and Scaling Containerized Workloads in a Kubernetes Cluster](https://github.com/malotts2k/KubernetesDeployment)
 
