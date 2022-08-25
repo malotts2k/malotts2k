@@ -10,7 +10,7 @@
 
    - [My Checklist for Securing Azure Infrastructure and Workloads](https://github.com/malotts2k/SecuringAzure)
    
-   - [Port Scanner Python Project](https://github.com/malotts2k/python_port_scanner) <!-- https://www.youtube.com/watch?v=FGdiSJakIS4 -->
+   - [Port Scanner written in Python](https://github.com/malotts2k/python_port_scanner) <!-- https://www.youtube.com/watch?v=FGdiSJakIS4 -->
 
 
   
