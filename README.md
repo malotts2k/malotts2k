@@ -1,6 +1,6 @@
 <h1>Hi, I'm Matt, a mission-driven security engineer!
   
-<h2> ☁️ Completed Projects:</h2>
+<h2> 🛡️ Completed Projects:</h2>
 
    - [Azure Sentinel SIEM](https://github.com/malotts2k/Azure-Sentinel-SIEM)
    
