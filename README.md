@@ -38,6 +38,7 @@
 <h2> 📜 Certifications</h2>
   
 - [Microsoft Certified: Securty Operations Analyst (SC-200)](https://github.com/malotts2k/CERTHERE)
+- [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://github.com/malotts2k/CERTHERE)
 - [Qualys Certified VMDR Specialist](https://github.com/malotts2k/CERTHERE)
 - [Qualys Certified Patch Management Specialist](https://github.com/malotts2k/CERTHERE)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://github.com/malotts2k/CERTHERE)
