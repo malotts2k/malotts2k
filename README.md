@@ -17,21 +17,21 @@
  
  <h2>🛠 Projects in Progress:</h2>
   
-  - [Cloud Resume Challenge - Azure](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
+  - [Cloud Resume Challenge - Azure](...) <!-- https://www.youtube.com/watch?v=ieYrBWmkfno -->
   
   - [Implementing Cloud Data Protection for Azure Virtual Machines](https://github.com/malotts2k/ProtectingVirtualMachines)
   
   - [Azure Hub and Spoke Network Topology](https://github.com/malotts2k/Azure-Hub-and-Spoke-Topology) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
   
-  - [Nessus Vulnerability Management Lab](https://github.com/malotts2k/ActiveDirectoryLab)
+  - [Nessus Vulnerability Management Lab](https://github.com/malotts2k/...)
   
-  - [Web Scraper Python Project](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://www.youtube.com/watch?v=SqvVm3QiQVk&t=37s -->
+  - [Web Scraper Python Project](https://github.com/malotts2k/...) <!-- https://www.youtube.com/watch?v=SqvVm3QiQVk&t=37s -->
   
-  - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/ActiveDirectoryLab) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
+  - [App Deployment to Azure with ARM Tempate](https://github.com/malotts2k/...) <!-- https://github.com/SoniaConti/ContosoFinance-Demo -->
 
-  - [My extremely primitive REST API](https://github.com/malotts2k/ActiveDirectoryLab)
+  - [My extremely primitive REST API](https://github.com/malotts2k/...)
 
-  - [Active Directory Home Lab](https://github.com/malotts2k/ActiveDirectoryLab)
+  - [Active Directory Home Lab](https://github.com/malotts2k/...)
   
 
   
